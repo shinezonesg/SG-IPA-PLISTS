@@ -13,15 +13,33 @@
 					<key>url</key>
 					<string>https://172.17.5.215:8080/IPAS/SG-15-09-02-15:29 develop.ipa</string>
 				</dict>
+				<dict>
+		                   <key>kind</key>
+		                   <string>display-image</string>
+		                   <key>needs-shine</key>
+		                   <true/>
+		                   <key>url</key>
+		                   <string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
+		               </dict>
+			       <dict>
+		                   <key>kind</key>
+		                   <string>full-size-image</string>
+		                   <key>needs-shine</key>
+		                   <true/>
+		                   <key>url</key>
+		                   <string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
+		               </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SG11.ProductName</string>
+				<string>com.SG11.ProductName-ios8</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+               			<string>ProductName</string>
 				<key>title</key>
 				<string>ProductName</string>
 			</dict>
